@@ -14,7 +14,7 @@ const Footer = () => {
         </div>
 
         <div>
-          <p className="text-xl font-medium mb-5">COMPANY</p>
+          <p className="text-xl font-medium mb-5">AD7Store</p>
           <ul className="flex flex-col gap-1 text-gray-600">
             <li>Founder : ADNAN CHOUDHARY</li>
             <li>Developer , Designer , Website Management : ZAID ASHIQ</li>
