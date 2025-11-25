@@ -18,11 +18,9 @@ const About = () => {
         />
         <div className="flex flex-col justify-center gap-6 md:w-2/4 text-gray-600">
           <p>
-            Forever wa born out of a passion for innovation and a desire to
-            revolutionize the way people shop online. Our journey began with a
-            simple idea: to provide a platform where customers can easily
-            discover, explore, and purchase a wide range of products from the
-            comfort of their homes.
+            AD7Store is a modern online shopping platform founded by Adnan Choudhary
+            and creatively developed by Zaid Ashiq. Built with a focus on quality,
+            affordability, and a smooth customer experience,
           </p>
           <p>
             Since our inception, we've worked tirelessly to curate a diverse
@@ -33,7 +31,7 @@ const About = () => {
           </p>
           <b className="text-gray-800">Our Mission</b>
           <p>
-            Our mission at Forever is to empower cistomers with choice,
+            Our mission at AD7Store is to empower customers with choice,
             convenience, and confidence. We're dedicated to providing a seamless
             shopping experience that exceeds expectations, from browsing and
             ordering to delivery and beyond.
@@ -49,7 +47,7 @@ const About = () => {
         <div className="border px-10 md:px-16 py-8 md:py-20 flex flex-col gap-5">
           <b>Quality Assurance:</b>
           <p className="text-gray-600">
-            We meticulously select and vet each product to ensure it meets our
+            We meticulously select and get each product to ensure it meets our
             stringent quality standards.
           </p>
         </div>
